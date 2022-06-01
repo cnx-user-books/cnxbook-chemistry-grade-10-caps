@@ -1,0 +1,1021 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The Atom</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38126</md:content-id>
+  <md:title>The Atom</md:title>
+  <md:abstract/>
+  <md:uuid>d4178cf3-d9e0-44cb-bd1a-5b499460bd45</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title><para id="eip-794">The following video covers some of the properties of an atom.
+<figure id="the-atom-1" class="veritasium"><title>Veritasium video on the atom - 1</title><media id="yt-media10" display="block" alt="video on the atom 1">
+	  <flash id="yt-video10" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/SeDaOigLBTU;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="id254141">We have now looked at many examples of the types of matter and materials that exist around us and we have investigated some of the ways that materials are classified. But what is it that makes up these materials? And what makes one material different from another? In order to understand this, we need to take a closer look at the building block of matter - the <emphasis effect="bold">atom</emphasis>. Atoms are the basis of all the structures and organisms in the universe. The planets, sun, grass, trees, air we breathe and people are all made up of different combinations of atoms.</para>
+    </section>
+    <section id="eip-613"><title>Project: Models of the atom</title><para id="eip-3">
+Our current understanding of the atom came about over a long period of time, with many different people playing a role. Conduct some research into the development of the different ideas of the atom and the people who contributed to it. Some suggested people to look at are: JJ Thomson, Ernest Rutherford, Marie Curie, JC Maxwell, Max Planck, Albert Einstein, Niels Bohr, Lucretius, LV de Broglie, CJ Davisson, LH Germer, Chadwick, Werner Heisenberg, Max Born, Erwin Schrodinger, John Dalton, Empedocles, Leucippus, Democritus, Epicurus, Zosimos, Maria the Jewess, Geber, Rhazes, Robert Boyle, Henry Cavendish, A Lavoisier and H Becquerel. You do not need to find information on all these people, but try to find information about as many of them as possible.
+</para>
+<para id="id7342">Make a list of the key contributions to a model of the atom that each of these people made and then make a timeline of this information. (You can use an online tool such as <link window="new" url="http://www.dipity.com/">Dipity</link> to make a timeline.) Try to get a feel for how it all eventually fit together into the modern understanding of the atom. 
+</para></section><section id="cid2">
+      <title>Models of the Atom</title>
+      <para id="id254164">It is important to realise that a lot of what we know about the structure of atoms has been developed over a long period of time. This is often how scientific knowledge develops, with one person building on the ideas of someone else. We are going to look at how our modern understanding of the atom has evolved over time.</para>
+      <para id="id254508">The idea of atoms was invented by two Greek philosophers, Democritus and Leucippus in the fifth century BC. The Greek word <m:math overflow="scroll"><m:mrow><m:mi>ατoμoν</m:mi></m:mrow></m:math> <space/> (atom) means <emphasis effect="bold">indivisible</emphasis> because they believed that atoms could not be broken into smaller pieces.</para>
+      <para id="id254540">Nowadays, we know that atoms are made up of a <emphasis effect="bold">positively charged nucleus</emphasis> in the centre
+surrounded by <emphasis effect="bold">negatively charged electrons</emphasis>. However, in the past, before the structure of the atom was properly understood, scientists came up with lots of different <emphasis effect="bold">models</emphasis> or <emphasis effect="bold">pictures</emphasis> to describe what atoms look like.</para>
+<definition id="fhsst_id72"><term id="termfhsst_id72"> Model </term> <meaning id="meaningfhsst_id72">
+      <para id="id254584">A model is a representation of a system in the real world. Models help us to understand systems and their properties. For example, an <emphasis effect="italics">atomic model</emphasis> represents what the structure of an atom <emphasis effect="italics">could</emphasis> look like, based on what we know about how atoms behave. It is not necessarily a true picture of the exact structure of an atom. </para>
+      </meaning></definition>
+      <section id="uid1">
+        <title>The Plum Pudding Model</title>
+        <para id="id254616">After the electron was discovered by J.J. Thomson in 1897, people realised that atoms were made up of even smaller particles than they had previously thought. However, the atomic nucleus had not been discovered yet and so the 'plum pudding model' was put forward in 1904. In this model, the atom is made up of negative electrons that float in a soup of positive charge, much like plums in a pudding or raisins in a fruit cake (<link target-id="uid2"/>). In 1906, Thomson was awarded the Nobel Prize for his work in this field. However, even with the Plum Pudding Model, there was still no understanding of how these electrons in the atom were arranged.</para>
+        <figure id="uid2">
+          <media id="uid2_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_001.png" id="uid2_onlineimage" width="320"><!-- NOTE: attribute width changes image size online (pixels). original width is 320. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_001.eps" id="uid2_printimage"/>
+          </media>
+          <caption>A schematic diagram to show what the atom looks like according to the Plum Pudding model</caption>
+        </figure>
+        <para id="id254642">The discovery of <emphasis effect="bold">radiation</emphasis> was the next step along the path to building an accurate picture of atomic structure. In the early twentieth century, Marie Curie and her husband Pierre,  discovered that some elements (the <emphasis effect="italics">radioactive</emphasis> elements) emit particles, which are able to pass through matter in a similar way to X-rays (read more about this in Grade 11). It was Ernest Rutherford who, in 1911, used this discovery to revise the model of the atom.</para>
+      </section>
+      <section id="uid3">
+        <title>Rutherford's model of the atom</title>
+        <para id="id254668">Radioactive elements emit different types of particles. Some of these are positively charged alpha (<m:math overflow="scroll"><m:mi>α</m:mi></m:math>) particles.
+Rutherford carried out a series of experiments where he bombarded sheets of gold foil with these particles, to try to get a better understanding of where the positive charge in the atom was. A simplified diagram of his experiment is shown in <link target-id="uid4"/>.</para>
+        <figure id="uid4">
+          <media id="uid4_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_002.png" id="uid4_onlineimage" width="667"><!-- NOTE: attribute width changes image size online (pixels). original width is 667. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_002.eps" id="uid4_printimage"/>
+          </media>
+          <caption>Rutherford's gold foil experiment. Figure (a) shows the path of the <m:math overflow="scroll"><m:mi>α</m:mi></m:math> particles after they hit the gold sheet. Figure (b) shows the arrangement of atoms in the gold sheets and the path of the <m:math overflow="scroll"><m:mi>α</m:mi></m:math> particles in relation to this.</caption>
+        </figure>
+        <para id="id254715">Rutherford set up his experiment so that a beam of alpha particles was directed at the gold sheets. Behind the gold sheets was a screen made of zinc sulphide. This screen allowed Rutherford to see where the alpha particles were landing. Rutherford knew that the <emphasis effect="italics">electrons</emphasis> in the gold atoms would not really affect the path of the alpha particles, because the mass of an electron is so much smaller than that of a proton. He reasoned that the positively charged <emphasis effect="italics">protons</emphasis> would be the ones to <emphasis effect="italics">repel</emphasis> the positively charged alpha particles and alter their path.</para>
+        <para id="id254738">What he discovered was that most of the alpha particles passed through the foil undisturbed and could be detected on the screen directly behind the foil (A). Some of the particles ended up being slightly deflected onto other parts of the screen (B). But what was even more interesting was that some of the particles were deflected straight back in the direction from where they had come (C)! These were the particles that had been repelled by the positive protons in the gold atoms. If the Plum Pudding model of the atom were true then Rutherford would have expected much more repulsion, since the positive charge according to that model is distributed throughout the atom. But this was not the case. The fact that most particles passed straight through suggested that the positive charge was concentrated in one part of the atom only.</para>
+        <para id="id254751">Rutherford's work led to a change in ideas around the atom. His new model described the atom as a tiny, dense, positively charged core called a nucleus surrounded by lighter, negatively charged electrons. Another way of thinking about this model was that the atom was seen to be like a mini solar system where the electrons orbit the nucleus like planets orbiting around the sun. A simplified picture of this is shown in <link target-id="uid5"/>. This model is sometimes known as the planetary model of the atom.</para>
+        <figure id="uid5">
+          <media id="uid5_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_003.png" id="uid5_onlineimage" width="309"><!-- NOTE: attribute width changes image size online (pixels). original width is 309. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_003.eps" id="uid5_printimage"/>
+          </media>
+          <caption>Rutherford's model of the atom</caption>
+        </figure>
+      </section>
+      <section id="uid6">
+        <title>The Bohr Model</title>
+        <para id="id254784">There were, however, some problems with this model: for example it could not explain the very interesting
+observation that atoms only emit light at certain wavelengths or frequencies. Niels Bohr solved
+this problem by proposing that the electrons could only orbit the nucleus in certain special orbits
+at different energy levels around the nucleus. The exact energies of the orbitals in each energy level depends on
+the type of atom. Helium for example, has different energy levels to Carbon. If an electron jumps down
+from a higher energy level to a lower energy level, then light is emitted from
+the atom. The energy of the light emitted is the same as the gap in the energy between the two
+energy levels. You can read more about this in <link target-id="cid7" window="new">"Energy quantisation and electron configuration"</link>. The distance between the nucleus and the electron in the lowest energy level of a hydrogen atom is known as the <emphasis effect="bold">Bohr radius</emphasis>.</para>
+<note id="notfhsst_id119"><title> Interesting Fact </title>
+        <para id="id254816">Light has the properties of both a particle <emphasis effect="bold">and</emphasis> a wave! Einstein discovered
+that light comes in energy packets which are called <emphasis effect="bold">photons</emphasis>. When an electron in an atom
+changes energy levels, a photon of light is emitted. This photon has the same energy as
+the difference between the two electron energy levels.</para>
+</note>
+      </section><section id="eip-279"><title>Other models of the atom</title><para id="eip-993">
+Although the most common model of the atom is the Bohr model, scientists have not stopped thinking about other ways to describe atoms. One of the most important contributions to atomic theory (the field of science that looks at atoms) was the development of quantum theory. Schrodinger, Heisenberg, Born and many others have had a role in developing quantum theory. The description of an atom by quantum theory is very complex and is only covered at university level.  
+</para></section><section id="eip-179"><title>Models of the atom</title><para id="eip-786">Match the information in column A, with the key discoverer in column B.
+
+<table id="eip-551" summary="table of key discoverers of atomic models">
+<tgroup cols="2"><tbody>
+ <row>
+    <entry>Column A</entry>
+    <entry>Column B</entry>
+  </row>
+  <row>
+    <entry>Discovery of electrons and the plum pudding model</entry>
+    <entry>Niels Bohr</entry>
+  </row>
+  <row>
+    <entry>Arrangement of electrons</entry>
+    <entry>Marie Curie and her husband, Pierre</entry>
+  </row>
+  <row>
+    <entry>Atoms as the smallest building block of matter</entry>
+    <entry>Ancient Greeks</entry>
+  </row>
+  <row>
+    <entry>Discovery of the nucleus</entry>
+    <entry>JJ Thomson</entry>
+  </row>
+  <row>
+    <entry>Discovery of radiation</entry>
+    <entry>Rutherford</entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table>
+<link class="fullmarks" window="new" url="http://www.fhsst.org/l4g">Click here for the solution</link></para></section>
+    </section>
+    <section id="cid3"><title>The size of atoms</title><para id="id254850">It is difficult sometimes to imagine the size of an atom, or its mass, because we cannot see an atom and also because we are not used to working with such small measurements.</para>
+      <section id="uid7">
+        <title>How heavy is an atom?</title>
+        <para id="id254863">It is possible to determine the mass of a single atom in kilograms. But to do this, you would need very modern <emphasis effect="italics">mass spectrometers</emphasis> and the values you would get would be very clumsy and difficult to use. The mass of a carbon atom, for example, is about <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>99</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>26</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>, while the mass of an atom of hydrogen is about <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>. Looking at these very small numbers makes it difficult to compare how much bigger the mass of one atom is when compared to another.</para>
+        <para id="id254908">To make the situation simpler, scientists use a different unit of mass when they are describing the mass of an atom. This unit is called the <emphasis effect="bold">atomic mass unit</emphasis> (amu). We can abbreviate (shorten) this unit to just 'u'. Scientists use the <emphasis effect="bold">carbon standard</emphasis> to determine amu. The carbon standard assigns carbon an atomic mass of 12 u. Using the carbon standard the mass of an atom of hydrogen will be 1 u. You can check this by dividing the mass of a carbon atom in kilograms (see above) by the mass of a hydrogen atom in kilograms (you will need to use a calculator for this!). If you do this calculation, you will see that the mass of a carbon atom is twelve times greater than the mass of a hydrogen atom. When we use atomic mass units instead of kilograms, it becomes easier to see this. Atomic mass units are therefore not giving us the <emphasis effect="italics">actual</emphasis> mass of an atom, but rather its mass <emphasis effect="italics">relative</emphasis> to the mass of one (carefully chosen) atom in the Periodic Table. Although carbon is the usual element to compare other elements to, oxygen and hydrogen have also been used. The important thing to remember here is that the atomic mass unit is relative to one (carefully chosen) element. The atomic masses of some elements are shown in the <link target-id="uid8"> table </link> below.</para>
+        <table id="uid8" summary="Atomic mass numbers">
+<tgroup cols="2"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Element</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Atomic mass (u)</emphasis>
+                </entry>
+              </row>
+<row>
+                <entry>Carbon (<m:math><m:mi mathvariant="normal">C</m:mi></m:math>)</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>Nitrogen (<m:math><m:mi mathvariant="normal">N</m:mi></m:math>)</entry>
+                <entry>14</entry>
+              </row>
+              <row>
+                <entry>Bromine (<m:math><m:mi mathvariant="normal">Br</m:mi></m:math>)</entry>
+                <entry>80</entry>
+              </row>
+              <row>
+                <entry>Magnesium (<m:math><m:mi mathvariant="normal">Mg</m:mi></m:math>)</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>Potassium (<m:math><m:mi mathvariant="normal">K</m:mi></m:math>)</entry>
+                <entry>39</entry>
+              </row>
+              <row>
+                <entry>Calcium (<m:math><m:mi mathvariant="normal">Ca</m:mi></m:math>)</entry>
+                <entry>40</entry>
+              </row>
+              <row>
+                <entry>Oxygen (<m:math><m:mi mathvariant="normal">O</m:mi></m:math>)</entry>
+                <entry>16</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>The atomic mass number of some of the elements</caption>
+</table>
+        <para id="id255096">The actual value of 1 atomic mass unit is <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>24</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> or <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>. This is a very tiny mass!</para>
+      </section>
+      <section id="uid9">
+        <title>How big is an atom?</title>
+<note id="notfhsst_id177" type="tip"><emphasis effect="italics">pm</emphasis> stands for <emphasis effect="italics">picometres</emphasis>. <m:math overflow="scroll"><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi><m:mo>=</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>12</m:mn></m:mrow></m:msup><m:mspace width="2pt"/> <m:mi mathvariant="normal">m</m:mi></m:math></note>
+        <para id="id255173">Atomic radius also varies depending on the element. On average, the radius of an atom ranges from <m:math><m:mn>32</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi></m:math> (Helium) to <m:math><m:mn>225</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi></m:math> (Caesium). Using different units, <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>Angstrom</m:mi></m:math>, and <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>Angstrom</m:mi><m:mo>=</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. That is the same as saying that <m:math overflow="scroll"><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>Angstrom</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000010</m:mn></m:mrow><m:mspace width="2pt"/> <m:mi mathvariant="normal">m</m:mi></m:math> or that <m:math overflow="scroll"><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000010</m:mn></m:mrow><m:mspace width="2pt"/> <m:mi mathvariant="normal">m</m:mi></m:math>! In other words, the diameter of an atom ranges from <m:math><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000010</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi></m:math> to <m:math><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000067</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi></m:math>. This is very small indeed.</para><para id="eip-30">The atomic radii given above are for the whole atom (nucleus and electrons). The nucleus itself is even smaller than this by a factor of about 23 000 in uranium and 145 000 in hydrogen. If the nucleus were the size of a golf ball, then the nearest electrons would be about one kilometer away! This should give help you realise that the atom is mostly made up of empty space. </para>
+      </section>
+    </section>
+    <section id="cid4">
+      <title>Atomic structure</title>
+      <para id="id255206">As a result of the work done by previous scientists on atomic models (that we discussed in <link target-id="cid2" window="new">"Models of the Atom"</link>), scientists now have a good idea of what an atom looks like. This knowledge is important because it helps us to understand why materials have different properties and why some materials bond with others. Let us now take a closer look at the microscopic structure of the atom.</para>
+      <para id="id255216">So far, we have discussed that atoms are made up of a positively charged <emphasis effect="bold">nucleus</emphasis> surrounded by
+one or more negatively charged <emphasis effect="bold">electrons</emphasis>. These electrons orbit the nucleus.</para>
+      <section id="uid10">
+        <title>The Electron</title>
+        <para id="id255241">The electron is a very light particle. It has a mass of <m:math overflow="scroll"><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>11</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>.
+Scientists believe that the electron can be treated as a <emphasis effect="bold">point particle</emphasis>
+or <emphasis effect="bold">elementary particle</emphasis>
+meaning that it can't be broken down into anything smaller. The electron also carries one unit
+of <emphasis effect="bold">negative</emphasis> electric charge which is the same as <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi mathvariant="normal">C</m:mi></m:math> (Coulombs).</para><para id="eip-222">The electrons determine the charge on an atom. If the number of electrons is the same as the number of protons then the atom will be neutral. If the number of electrons is greater than the number of protons then the atom will be negatively charged. If the number of electrons is less than the number of protons then the atom will be positively charged. Atoms that are not neutral are called ions. Ions will be covered in more detail in a later chapter. For now all you need to know is that for each electron you remove from an atom you loose <m:math><m:mo>-</m:mo><m:mn>1</m:mn></m:math> of charge and for each electron that you add to an atom you gain <m:math><m:mo>+</m:mo><m:mn>1</m:mn></m:math> of charge. For example, the charge on an atom of sodium after removing one electron is  <m:math><m:mo>-</m:mo><m:mn>1</m:mn></m:math>.</para>
+      </section>
+      <section id="uid11">
+        <title>The Nucleus</title>
+        <para id="id255305">Unlike the electron, the nucleus <emphasis effect="bold">can</emphasis> be broken up into smaller building
+blocks called <emphasis effect="bold">protons</emphasis> and <emphasis effect="bold">neutrons</emphasis>. Together, the protons and
+neutrons are called <emphasis effect="bold">nucleons</emphasis>.</para>
+        <section id="uid12">
+          <title>The Proton</title>
+          <para id="id255338">Each proton carries one unit of <emphasis effect="bold">positive</emphasis> electric charge.
+Since we know that atoms are
+<emphasis effect="bold">electrically neutral</emphasis>, i.e. do not carry any extra charge, then the number
+of protons in an atom has to be the same as the number of electrons to balance
+out the positive and negative charge to zero. The total positive charge of a
+nucleus is equal to the number of protons in the nucleus. The proton is much heavier
+than the electron (10 000 times heavier!) and has a mass of <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6726</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>. When we talk about the atomic mass of an atom, we are mostly referring to the combined mass of the protons and neutrons, i.e. the nucleons.</para>
+        </section>
+        <section id="uid13">
+          <title>The Neutron</title>
+          <para id="id254468">The neutron is electrically neutral i.e. it carries no charge at all.
+Like the proton, it is much heavier than the electron and its mass is <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6749</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math> (slightly heavier than the proton).</para>
+<note id="notfhsst_id214"><title> Interesting Fact </title>
+          <para id="id254497">Rutherford predicted (in 1920) that another kind of particle must be
+present in the nucleus along with the proton. He predicted this because
+if there were only positively charged protons in the nucleus, then it should break
+into bits because of the repulsive forces between the like-charged protons! Also,
+if protons were the only particles
+in the nucleus, then a helium nucleus (atomic number 2) would have
+two protons and therefore only twice the mass of hydrogen. However,
+it is actually <emphasis effect="bold">four</emphasis> times heavier than hydrogen. This suggested that there
+must be something else inside the nucleus as well as the protons.
+To make sure that the atom stays electrically neutral, this particle would have to be neutral itself. In 1932 James Chadwick discovered the neutron and measured
+its mass.</para>
+</note>
+          <table id="uid14" summary="">
+            <tgroup cols="4">
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry>
+                    <emphasis effect="bold">proton</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">neutron</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">electron</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Mass (kg)</emphasis>
+                  </entry>
+                  <entry><m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6726</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup></m:math></entry>
+                  <entry><m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6749</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup></m:math></entry>
+                  <entry><m:math overflow="scroll"><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>11</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup></m:math></entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Units of charge</emphasis>
+                  </entry>
+                  <entry><m:math><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+                  <entry><m:math><m:mn>0</m:mn></m:math></entry>
+                  <entry><m:math><m:mo>-</m:mo><m:mn>1</m:mn></m:math></entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Charge (C)</emphasis>
+                  </entry>
+                  <entry><m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:math></entry>
+                  <entry><m:math><m:mn>0</m:mn></m:math></entry>
+                  <entry><m:math overflow="scroll"><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:math></entry>
+                </row>
+              </tbody>
+            </tgroup>
+            <caption>Summary of the particles inside the atom</caption>
+          </table>
+<note id="notfhsst_id270"><title> Interesting Fact </title>
+          <para id="id255764">Unlike the electron which is thought to be a <emphasis effect="bold">point particle</emphasis> and unable
+to be broken up into smaller pieces, the proton and neutron <emphasis effect="bold">can</emphasis> be divided.
+Protons and neutrons are built up of smaller particles called <emphasis effect="bold">quarks</emphasis>. The proton
+and neutron are made up of 3 quarks each.</para>
+</note>
+        </section>
+      </section>
+    </section>
+    <section id="cid5">
+      <title>Atomic number and atomic mass number</title>
+      <para id="id255805">The chemical properties of an element are determined by the charge of
+its nucleus, i.e. by the <emphasis effect="bold">number of protons</emphasis>. This number is
+called the <emphasis effect="bold">atomic number</emphasis> and is denoted by the letter <emphasis effect="bold">Z</emphasis>.</para>
+<definition id="fhsst_id284"><term id="termfhsst_id284"> Atomic number (Z) </term> <meaning id="meaningfhsst_id284">
+      <para id="id255833">The number of protons in an atom </para>
+      </meaning></definition>
+      <para id="eip-164">You can find the atomic number on the periodic table. The atomic number is an integer and ranges from 1 to about 118.</para><para id="id255845">The mass of an atom depends on how many nucleons its nucleus contains.
+The number of nucleons, i.e. the total number of protons <emphasis effect="bold">plus</emphasis> neutrons,
+is called the
+<emphasis effect="bold">atomic mass number</emphasis> and is denoted by the letter <emphasis effect="bold">A</emphasis>.</para>
+<definition id="fhsst_id291"><term id="termfhsst_id291"> Atomic mass number (A) </term> <meaning id="meaningfhsst_id291">
+      <para id="id255874">The number of protons and neutrons in the nucleus of an atom </para>
+      </meaning></definition>
+      <para id="id255886">Standard notation shows the chemical symbol, the atomic mass number
+and the atomic number of an element as follows:</para>
+      <para id="id255890">
+        <figure id="id255893">
+          <media id="id255893_media" alt="">
+            <image mime-type="image/png" src="../../media/atom_sym.png" id="id255893_onlineimage" width="453"><!-- NOTE: attribute width changes image size online (pixels). original width is 453. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/atom_sym.eps" id="id255893_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <note id="eip-741">A nuclide is a distinct kind of atom or nucleus characterized by the number of protons and neutrons in the atom. To be absolutely correct, when we represent atoms like we do here, then we should call them nuclides. </note><para id="id255900">For example, the iron nucleus which has 26 protons and 30 neutrons, is
+denoted as:</para>
+      <equation id="id255904">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msubsup>
+              <m:mrow/>
+              <m:mn>26</m:mn>
+              <m:mn>56</m:mn>
+            </m:msubsup>
+            <m:mi mathvariant="normal"> Fe </m:mi>
+            <m:mspace width="4pt"/>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id255929">where the atomic number is <m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>26</m:mn></m:mrow></m:math><space/> and the mass number <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>56</m:mn></m:mrow></m:math>.
+The number of neutrons is simply the difference <m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:mo>-</m:mo><m:mi>Z</m:mi></m:mrow></m:math>.</para>
+<note id="notfhsst_id321" type="tip">Don't confuse the notation we have used above with the way this information appears on the Periodic Table. On the Periodic Table, the atomic number usually appears in the top lefthand corner of the block or immediately above the element's symbol. The number below the element's symbol is its <emphasis effect="bold">relative atomic mass</emphasis>. This is not exactly the same as the atomic mass number. This will be explained in <link target-id="cid6" window="new">"Isotopes"</link>. The example of iron is shown below.
+      <para id="id256180">
+        <figure id="id256183">
+          <media id="id256183_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_004.png" id="id256183_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_004.eps" id="id256183_printimage"/>
+          </media>
+        </figure>
+      </para>
+</note>
+      <para id="id256193">You will notice in the example of iron that the atomic mass number is more or less the same as its atomic mass. Generally, an atom that contains <emphasis effect="italics">n</emphasis> nucleons (protons and neutrons), will have a mass approximately equal to <m:math overflow="scroll"><m:mi>n</m:mi></m:math>u. For example the mass of a <m:math><m:mi mathvariant="normal">C</m:mi><m:mi>-</m:mi><m:mn>12</m:mn></m:math> atom which has 6 protons, 6 neutrons and 6 electrons is 12u, where the protons and neutrons have about the same mass and the electron mass is negligible.</para>
+<exercise id="eip-950"><problem id="eip-686">
+  <para id="eip-509">Use standard notation to represent sodium and give the number of protons, neutrons and electrons in the element.
+  </para>
+</problem>
+
+<solution id="eip-600">
+  <para id="eip-374"><list id="listfhsst_id431" list-type="enumerated" number-style="arabic" class="stepwise"><item><label>Write the element symbol</label>Sodium is given by <m:math><m:mi>Na</m:mi></m:math></item>
+<item><label>Write down the number of protons</label>Sodium has 11 protons, so we have: <m:math><m:msub><m:mrow/><m:mn>11</m:mn></m:msub><m:mi>Na</m:mi></m:math></item>
+<item><label>Write down the number of neutrons</label>Sodium has 12 neutrons.</item>
+<item><label>Work out A</label><m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mi>N</m:mi><m:mo>+</m:mo><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>12</m:mn><m:mo>+</m:mo><m:mn>11</m:mn><m:mo>=</m:mo><m:mn>23</m:mn></m:math></item>
+<item><label>Write the answer</label>In standard notation sodium is given by: <m:math><m:msubsup><m:mrow/><m:mn>11</m:mn><m:mn>23</m:mn></m:msubsup><m:mi>Na</m:mi></m:math>. The number of protons is 11, the number of neutrons is 12 and the number of electrons is 11.</item>
+</list>
+  </para>
+</solution>
+</exercise><section id="secfhsst_id332"><title> The structure of the atom
+      </title>
+      <list id="id256225" display="block" list-type="enumerated"><item id="uid15">Explain the meaning of each of the following terms:
+<list id="id256240" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid16">nucleus
+</item><item id="uid17">electron
+</item><item id="uid18">atomic mass
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/ll0">Click here for the solution</link></item>
+        <item id="uid19">Complete the following table: (Note: You will see that the atomic masses on the Periodic Table are not <emphasis effect="italics">whole numbers</emphasis>. This will be explained later. For now, you can round off to the nearest whole number.)
+<table id="id256298" summary="table of atomic mass and number">
+<tgroup cols="6"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">Atomic mass</emphasis></entry><entry><emphasis effect="bold">Atomic number</emphasis></entry><entry><emphasis effect="bold">Number of protons</emphasis></entry><entry><emphasis effect="bold">Number of electrons</emphasis></entry><entry><emphasis effect="bold">Number of neutrons</emphasis></entry></row><row><entry><m:math><m:mi>Mg</m:mi></m:math></entry><entry>24</entry><entry>12</entry><entry/><entry/><entry/></row><row><entry><m:math><m:mi mathvariant="normal">O</m:mi></m:math></entry><entry/><entry/><entry>8</entry><entry/><entry/></row><row><entry/><entry/><entry>17</entry><entry/><entry/><entry/></row><row><entry><m:math><m:mi>Ni</m:mi></m:math></entry><entry/><entry/><entry/><entry>28</entry><entry/></row><row><entry/><entry>40</entry><entry/><entry/><entry/><entry>20</entry></row><row><entry><m:math><m:mi>Zn</m:mi></m:math></entry><entry/><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/><entry/><entry>0</entry></row><row><entry><m:math><m:mi mathvariant="normal">C</m:mi></m:math></entry><entry>12</entry><entry/><entry/><entry>6</entry><entry/></row></tbody>
+</tgroup>
+</table><link window="new" class="fullmarks" url=" http://www.fhsst.org/ll8">Click here for the solution</link></item>
+        <item id="uid20">Use standard notation to represent the following elements:
+<list id="id256772" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid21">potassium
+</item><item id="uid22">copper
+</item><item id="uid23">chlorine
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/ll9">Click here for the solution</link></item>
+        <item id="uid24">
+For the element <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>35</m:mn></m:msubsup><m:mi>Cl</m:mi></m:math>, give the number of ...
+<list id="id256843" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid25">protons
+</item><item id="uid26">neutrons
+</item><item id="uid27">electrons
+</item></list>
+... in the atom.<newline/><link window="new" class="fullmarks" url=" http://www.fhsst.org/llX">Click here for the solution</link>
+</item>
+        <item id="uid28">Which of the following atoms has 7 electrons?
+<list id="id256898" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid29"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>2</m:mn><m:mn>5</m:mn></m:msubsup><m:mi>He</m:mi></m:math>
+</item><item id="uid30"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>6</m:mn><m:mn>13</m:mn></m:msubsup><m:mi mathvariant="normal">C</m:mi></m:math>
+</item><item id="uid31"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>7</m:mn></m:msubsup><m:mi>Li</m:mi></m:math>
+</item><item id="uid32"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>7</m:mn><m:mn>15</m:mn></m:msubsup><m:mi mathvariant="normal">N</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/llk">Click here for the solution</link></item>
+        <item id="uid33">
+In each of the following cases, give the number or the element symbol represented by 'X'.
+<list id="id257023" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid34"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>18</m:mn><m:mn>40</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item><item id="uid35"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>20</m:mn><m:mi>x</m:mi></m:msubsup><m:mi mathvariant="normal">Ca</m:mi></m:math>
+</item><item id="uid36"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mi>x</m:mi><m:mn>31</m:mn></m:msubsup><m:mi mathvariant="normal">P</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/llK">Click here for the solution</link></item>
+        <item id="uid37">
+Complete the following table:
+<table id="id257121" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">A</emphasis></entry><entry><emphasis effect="bold">Z</emphasis></entry><entry><emphasis effect="bold">N</emphasis></entry></row><row><entry><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>235</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:math></entry><entry/><entry/><entry/></row><row><entry><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>238</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:math></entry><entry/><entry/><entry/></row></tbody></tgroup></table>
+In these two different forms of Uranium...
+<list id="id257277" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid38">What is the <emphasis effect="italics">same</emphasis>?
+</item><item id="uid39">What is <emphasis effect="italics">different</emphasis>?
+</item></list>
+Uranium can occur in different forms, called <emphasis effect="italics">isotopes</emphasis>. You will learn more about isotopes in <link target-id="cid6">"Isotopes"</link>.<newline/><link window="new" class="fullmarks" url=" http://www.fhsst.org/llB">Click here for the solution</link>
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid6"><title>Isotopes</title><section id="uid40">
+        <title>What is an isotope?</title>
+        <para id="id257359">The chemical properties of an element depend on the number of protons and electrons inside the atom. So if a neutron or two is added or removed from the nucleus, then the chemical properties will not change. This means that such an atom would remain in the same place in the Periodic Table. For example, no matter how many neutrons we add or subtract from a nucleus with 6 protons, that element will <emphasis effect="bold">always</emphasis> be called carbon and have the
+element symbol <m:math><m:mi mathvariant="normal">C</m:mi></m:math> (see the Table of Elements). Atoms which have the same number of protons, but a different number of neutrons, are called <emphasis effect="bold">isotopes</emphasis>.</para>
+<definition id="fhsst_id386"><term id="termfhsst_id386"> Isotope </term> <meaning id="meaningfhsst_id386">
+        <para id="id257386">The <emphasis effect="bold">isotope</emphasis> of a particular element is made up of atoms which have the same number of protons as the atoms in the original element, but a different number of neutrons.  </para>
+        </meaning></definition>
+        <para id="id257405">The different isotopes of an element have the same atomic
+number <m:math overflow="scroll"><m:mi>Z</m:mi></m:math> but different mass numbers <m:math overflow="scroll"><m:mi>A</m:mi></m:math> because they have a different
+number of neutrons <m:math overflow="scroll"><m:mi>N</m:mi></m:math>. The chemical properties of the different
+isotopes of an element are the same, but they might vary in how stable their nucleus is. Note that we can also write elements as <m:math><m:mi>X - A</m:mi></m:math> where the X is the element symbol and the A is the atomic mass of that element. For example, <m:math><m:mi>C-</m:mi><m:mn>12</m:mn></m:math> has an atomic mass of 12 and <m:math><m:mi>Cl-</m:mi><m:mn>35</m:mn></m:math> has an atomic mass of 35 u, while <m:math><m:mi>Cl-</m:mi><m:mn>37</m:mn></m:math> has an atomic mass of 37 u.</para>
+<note id="notfhsst_id393"><title> Interesting Fact </title>
+        <para id="id257445">In Greek, “same place” reads as
+<m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>ι</m:mi><m:mo>`</m:mo></m:mover><m:mi>σ</m:mi><m:mi>o</m:mi><m:mi>ς</m:mi></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:mi>τ</m:mi><m:mover accent="true"><m:mi>o</m:mi><m:mo>`</m:mo></m:mover><m:mi>π</m:mi><m:mi>o</m:mi><m:mi>ς</m:mi></m:mrow></m:math><space/>
+(isos topos). This is why atoms which have the same number of protons, but
+different numbers of neutrons, are called <emphasis effect="italics">isotopes</emphasis>. They are in the same place on the Periodic Table!</para>
+</note>
+        <para id="id257512">The following worked examples will help you to understand the concept of an isotope better.</para>
+<exercise id="secfhsst_id400"><title> Isotopes  </title>
+        <problem id="probfhsst_id401">
+        <para id="id257529">For the element <m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>234</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:mrow></m:math> (uranium), use standard notation to describe:</para>
+        <list id="id257558" display="block" list-type="enumerated">
+          <item id="uid41">the isotope with 2 fewer neutrons
+</item>
+          <item id="uid42">the isotope with 4 more neutrons
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id411"> <list id="listfhsst_id411" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Go over the definition of isotope </label>
+        <para id="id257607">We know that isotopes of any element have the <emphasis effect="bold">same</emphasis> number
+of protons (same atomic number)
+in each atom, which means that they have the same chemical symbol. However, they have a different number of neutrons, and therefore a different mass number.</para>
+        
+        </item>
+        <item> <label> Rewrite the notation for the isotopes </label>
+        <para id="id257640">Therefore, any isotope of uranium will have the symbol:</para>
+        <equation id="id257644">
+          <m:math overflow="scroll" mode="display">
+            <m:mi mathvariant="normal">U</m:mi>
+          </m:math>
+        </equation>
+        <para id="id257657">Also, since the number of protons in uranium isotopes is always the same, we can write
+down the atomic number:</para>
+        <equation id="id257664">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mrow/>
+                <m:mn>92</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">U</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id257684">Now, if the isotope we want has 2 fewer neutrons than <m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>234</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:mrow></m:math>,
+then we take the original mass number and subtract 2, which gives:</para>
+        <equation id="id257713">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msubsup>
+                <m:mrow/>
+                <m:mn>92</m:mn>
+                <m:mn>232</m:mn>
+              </m:msubsup>
+              <m:mi mathvariant="normal">U</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id257736">Following the steps above, we can write the isotope with 4 more neutrons as:</para>
+        <equation id="id257740">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msubsup>
+                <m:mrow/>
+                <m:mn>92</m:mn>
+                <m:mn>238</m:mn>
+              </m:msubsup>
+              <m:mi mathvariant="normal">U</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+ </item></list> </solution>
+</exercise>
+<exercise id="secfhsst_id466"><title> Isotopes </title>
+        <problem id="probfhsst_id467">
+        <para id="id257776">Which of the following are isotopes of <m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>20</m:mn><m:mn>40</m:mn></m:msubsup><m:mi> Ca </m:mi></m:mrow></m:math>?</para>
+        <list id="id257802" display="block" list-type="bulleted">
+          <item id="uid43">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msubsup>
+                  <m:mrow/>
+                  <m:mn>19</m:mn>
+                  <m:mn>40</m:mn>
+                </m:msubsup>
+                <m:mi mathvariant="normal">K</m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid44">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msubsup>
+                  <m:mrow/>
+                  <m:mn>20</m:mn>
+                  <m:mn>42</m:mn>
+                </m:msubsup>
+                <m:mi> Ca </m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid45">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msubsup>
+                  <m:mrow/>
+                  <m:mn>18</m:mn>
+                  <m:mn>40</m:mn>
+                </m:msubsup>
+                <m:mi> Ar </m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id509"> <list id="listfhsst_id509" list-type="enumerated" number-style="arabic" class="stepwise">
+         <item> <label> Go over the definition of isotope: </label>
+        <para id="id257917">We know that isotopes have the same atomic number but different mass numbers.</para>
+        
+        </item> 
+        <item> <label> Determine which of the elements listed fits the definition of an isotope. </label>
+        <para id="id257943">You need to look for the element that has the same atomic number but a different atomic mass number. The only element is <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>20</m:mn><m:mn>42</m:mn></m:msubsup><m:mi>Ca</m:mi></m:math>. What is different is that there are 2 more neutrons than in the original element.</para>
+</item>
+</list> </solution>
+</exercise>
+<exercise id="secfhsst_id517"><title> Isotopes </title>
+        <problem id="probfhsst_id518">
+        <para id="id257977">For the sulphur isotope <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>16</m:mn><m:mn>33</m:mn></m:msubsup><m:mi mathvariant="normal">S</m:mi></m:math>, give the number of...</para>
+        <list id="id258000" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid46">protons
+</item>
+          <item id="uid47">nucleons
+</item>
+          <item id="uid48">electrons
+</item>
+          <item id="uid49">neutrons
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id532"> <list id="listfhsst_id532" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the number of protons by looking at the atomic number, Z. </label>
+        <para id="id258074"><m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>16</m:mn></m:math>, therefore the number of protons is 16 (answer to (a)).
+ </para>
+        </item> 
+        <item> <label> Determine the number of nucleons by looking at the atomic mass number, A. </label>
+        <para id="id258094"><m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>33</m:mn></m:math>, therefore the number of nucleons is 33 (answer to (b)).</para>
+        </item> <item> <label> Determine the number of electrons </label>
+        <para id="id258102">The atom is neutral, and therefore the number of electrons is the same as the number of protons. The number of electrons is 16 (answer to (c)).</para>
+        </item> <item> <label> Calculate the number of neutrons </label>
+        <equation id="id258110">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mi>A</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mi>Z</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>33</m:mn>
+                    <m:mo>-</m:mo>
+                    <m:mn>16</m:mn>
+                    <m:mo>=</m:mo>
+                    <m:mn>17</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id258151">The number of neutrons is 17 (answer to (d)).</para>
+</item></list> </solution>
+</exercise>
+<section id="secfhsst_id567"><title> Isotopes </title>
+        <list id="id258162" display="block" list-type="enumerated"><item id="uid50">Atom A has 5 protons and 5 neutrons, and atom B has 6 protons and 5 neutrons. These atoms are...
+<list id="id258178" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid51">allotropes
+</item><item id="uid52">isotopes
+</item><item id="uid53">isomers
+</item><item id="uid54">atoms of different elements
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/ll4">Click here for the solution</link></item>
+          <item id="uid55">For the sulphur isotopes, <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>16</m:mn><m:mn>32</m:mn></m:msubsup><m:mi mathvariant="normal">S</m:mi></m:math> and <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>16</m:mn><m:mn>34</m:mn></m:msubsup><m:mi mathvariant="normal">S</m:mi></m:math>, give the number of...
+<list id="id258277" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid56">protons
+</item><item id="uid57">nucleons
+</item><item id="uid58">electrons
+</item><item id="uid59">neutrons
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/llZ">Click here for the solution</link></item>
+          <item id="uid60">Which of the following are isotopes of <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>35</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>?
+<list id="id258355" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid61"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>35</m:mn><m:mn>17</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>
+</item><item id="uid62"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>35</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>
+</item><item id="uid63"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>37</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/llW">Click here for the solution</link></item>
+          <item id="uid64">Which of the following are isotopes of <m:math><m:mi>U-</m:mi><m:mn>235</m:mn></m:math>? (X represents an element symbol)
+<list id="id258452" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid65"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>238</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item><item id="uid66"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>90</m:mn><m:mn>238</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item><item id="uid67"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>235</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/llD">Click here for the solution</link></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid68"><title>Relative atomic mass</title><para id="id258557">It is important to realise that the atomic mass of isotopes of the same element will be different because they have a different number of nucleons. Chlorine, for example, has two common isotopes which are chlorine-35 and chlorine-37. Chlorine-35 has an atomic mass of 35 u, while chlorine-37 has an atomic mass of 37 u. In the world around us, both of these isotopes occur naturally. It doesn't make sense to say that the element chlorine has an atomic mass of 35 u, or that it has an atomic mass of 37 u. Neither of these are absolutely true since the mass varies depending on the form in which the element occurs. We need to look at how much more common one is than the other in order to calculate the <emphasis effect="bold">relative atomic mass</emphasis> for the element chlorine. This is the number that you find on the Periodic Table.</para>
+<definition id="fhsst_id598"><term id="termfhsst_id598"> Relative atomic mass </term> <meaning id="meaningfhsst_id598">
+        <para id="id258580">Relative atomic mass is the average mass of one atom of all the naturally occurring isotopes of a particular chemical element, expressed in atomic mass units.
+ </para>
+        </meaning></definition>
+<note id="eip-828"><title>Interesting fact</title><para id="id97421">The relative atomic mass of some elements depends on where on Earth the element is found. This is because the isotopes can be found in varying ratios depending on certain factors such as geological composition, etc. The International Union of Pure and Applied Chemistry (IUPAC) has decided to give the relative atomic mass of some elements as a range to better represent the varying isotope ratios on the Earth. For the calculations that you will do at high school, it is enough to simply use one number without worrying about these ranges.</para></note><exercise id="secfhsst_id602"><title> The relative atomic mass of an isotopic element </title>
+        <problem id="probfhsst_id603">
+        <para id="id258606">The element chlorine has two isotopes, chlorine-35 and chlorine-37. The abundance of these isotopes when they occur naturally is 75% chlorine-35 and 25% chlorine-37. Calculate the <emphasis effect="italics">average</emphasis> relative atomic mass for chlorine.
+ </para>
+        </problem>
+        <solution id="solfhsst_id607"> <list id="listfhsst_id607" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Calculate the mass contribution of chlorine-35 to the average relative atomic mass </label>
+        <para id="id258637">Contribution of <m:math><m:mi>Cl-</m:mi><m:mn>35</m:mn><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mn>75</m:mn><m:mn>100</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>35</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math>
+ </para>
+        </item> 
+        <item> <label> Calculate the contribution of chlorine-37 to the average relative atomic mass </label>
+        <para id="id258657">Contribution of <m:math><m:mi>Cl-</m:mi><m:mn>37</m:mn><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mn>25</m:mn><m:mn>100</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>37</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+        </item> <item> <label> Add the two values to arrive at the <emphasis effect="italics">average relative atomic mass</emphasis> of chlorine </label>
+        <para id="id258670"><m:math><m:mi>Relative atomic mass of chlorine</m:mi><m:mo>=</m:mo><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi><m:mo>=</m:mo><m:mn>35</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+        <para id="id258674">If you look on the periodic table, the average relative atomic mass for chlorine is <m:math><m:mn>35</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math>. You will notice that for many elements, the relative atomic mass that is shown is not a whole number. You should now understand that this number is the <emphasis effect="italics">average</emphasis> relative atomic mass for those elements that have naturally occurring isotopes.</para>
+</item></list> </solution>
+</exercise>
+<para id="eip-819">This simulation allows you to see how isotopes and relative atomic mass are inter related.
+<figure id="id7972"><media id="id7942" alt="">
+<image mime-type="image/png" src="../../media/isotope.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/isotope.eps" id="id63458_printimage"/>
+</media>
+</figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/build-an-atom/isotopes-and-atomic-mass_en.jnlp">run demo</link></para><section id="secfhsst_id618"><title> Isotopes </title>
+        
+        <list id="id258699" display="block" list-type="enumerated"><item id="uid69">Complete the table below:
+<table id="id258715" summary=""><tgroup cols="6"><tbody><row><entry><emphasis effect="bold">Isotope</emphasis></entry><entry><emphasis effect="bold">Z</emphasis></entry><entry><emphasis effect="bold">A</emphasis></entry><entry><emphasis effect="bold">Protons</emphasis></entry><entry><emphasis effect="bold">Neutrons</emphasis></entry><entry><emphasis effect="bold">Electrons</emphasis></entry></row><row><entry>Carbon-12</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Carbon-14</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Chlorine-35</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Chlorine-37</entry><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table><link window="new" class="fullmarks" url="http://www.fhsst.org/llj">Click here for the solution</link></item>
+<item id="uid70">If a sample contains 90% carbon-12 and 10% carbon-14, calculate the relative atomic mass of an atom in that sample.
+<space/><link window="new" class="fullmarks" url="http://www.fhsst.org/llb">Click here for the solution</link></item><item id="uid71">If a sample contains 22,5% Cl-37 and 77,5% Cl-35, calculate the relative atomic mass of an atom in that sample.<space/><link window="new" class="fullmarks" url="http://www.fhsst.org/llT">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id628"><title> Group Discussion : The changing nature of scientific knowledge
+        </title>
+        <para id="id259039">Scientific knowledge is not static: it changes and evolves over time as scientists build on the ideas of others to come up with revised (and often improved) theories and ideas. In this chapter for example, we saw how peoples' understanding of atomic structure changed as more information was gathered about the atom. There are many more examples like this one in the field of science. For example, think about our knowledge of the solar system and the origin of the universe, or about the particle and wave nature of light.</para>
+        <para id="id259049">Often, these changes in scientific thinking can be very controversial because they disturb what people have come to know and accept. It is important that we realise that what we know <emphasis effect="italics">now</emphasis> about science may also change. An important part of being a scientist is to be a <emphasis effect="italics">critical thinker</emphasis>. This means that you need to question information that you are given and decide whether it is accurate and whether it can be accepted as true. At the same time, you need to learn to be open to new ideas and not to become stuck in what you believe is right... there might just be something new waiting around the corner that you have not thought about!</para>
+        <para id="id259071">In groups of 4-5, discuss the following questions:</para>
+        <list id="id259077" display="block" list-type="bulleted">
+          <item id="uid72">Think about some other examples where scientific knowledge has changed because of new ideas and discoveries:
+<list id="id259094" display="block" list-type="bulleted"><item id="uid73">What were these new ideas?
+</item><item id="uid74">Were they controversial? If so, why?
+</item><item id="uid75">What role (if any) did <emphasis effect="italics">technology</emphasis> play in developing these new ideas?
+</item><item id="uid76">How have these ideas affected the way we understand the world?
+</item></list></item>
+          <item id="uid77">Many people come up with their own ideas about how the world works. The same is true in science. So how do we, and other scientists, know what to believe and what not to? How do we know when new ideas are 'good' science or 'bad' science? In your groups, discuss some of the things that would need to be done to check whether a new idea or theory was worth listening to, or whether it was not.
+</item>
+          <item id="uid78">Present your ideas to the rest of the class.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid7">
+      <title>Electron configuration</title>
+      <section id="uid79">
+        <title>The energy of electrons</title>
+        <para id="id259210">You will remember from our earlier discussions that an atom is made up of a central nucleus, which contains protons and neutrons and that this nucleus is surrounded by electrons. Although these electrons all have the same charge and the same mass, each electron in an atom has a different amount of <emphasis effect="italics">energy</emphasis>. Electrons that have the <emphasis effect="italics">lowest</emphasis> energy are found closest to the nucleus where the attractive force of the positively charged nucleus is the greatest. Those electrons that have <emphasis effect="italics">higher</emphasis> energy, and which are able to overcome the attractive force of the nucleus, are found further away.</para>
+      </section>
+      <section id="uid80">
+        <title>Energy quantisation and line emission spectra (Not in CAPS, included for completeness)</title>
+        <para id="id259245">If the energy of an atom is increased (for example when a substance is heated), the energy of the electrons inside the atom can be increased (when an electron has a higher energy than normal it is said to be "excited"). For the excited electron to go back to its original energy (called the ground state), it needs to release energy. It releases energy by emitting light.
+If one heats up different elements, one will see that for each element, light is emitted only at certain frequencies (or wavelengths). Instead of a smooth continuum of frequencies, we see lines (called emission lines) at particular frequencies. These frequencies correspond to the energy of the emitted light. If electrons could be excited to any energy and lose any amount of energy, there would be a continuous spread of light frequencies emitted. However, the sharp lines we see mean that there are only certain particular energies that an electron can be excited to, or can lose, for each element.</para>
+        <para id="id259256">You can think of this like going up a flight of steps: you can't lift your foot by <emphasis effect="italics">any</emphasis> amount to go from the ground to the first step. If you lift your foot too low you'll bump into the step and be stuck on the ground level. You have to lift your foot just the right amount (the height of the step) to go to the next step, and so on. The same goes for electrons and the amount of energy they can have. This is called <emphasis effect="bold">quantisation of energy</emphasis> because there are only certain quantities of energy that an electron can have in an atom. Like steps, we can think of these quantities as <emphasis effect="bold">energy levels</emphasis> in the atom. The energy of the light released when an electron drops down from a higher energy level to a lower energy level is the same as the difference in energy between the two levels.</para>
+      </section>
+      <section id="uid81"><title>Electron configuration</title><para id="id9722401">We will start with a very simple view of the arrangement or configuration of electrons around an atom. This view simply states that electrons are arranged in energy levels (or shells) around the nucleus of an atom. These energy levels are numbered 1, 2, 3, etc. Electrons that are in the first energy level (energy level 1) are closest to the nucleus and will have the lowest energy. Electrons further away from the nucleus will have a higher energy. </para>
+<para id="id259357">In the following examples, the energy levels are shown as concentric circles around the central nucleus. The important thing to know for these diagrams is that the first energy level can hold 2 electrons, the second energy level can hold 8 electrons and the third energy level can hold 8 electrons.</para>
+        <list id="id259361" display="block" list-type="enumerated">
+          <item id="uid86"><emphasis effect="bold">Lithium</emphasis>
+Lithium (Li) has an atomic number of 3, meaning that in a neutral atom, the number of electrons will also be 3. The first two electrons are found in the first energy level, while the third electron is found in the second energy level (<link target-id="uid87"/>).
+<figure id="uid87"><media id="uid87_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_005.png" id="uid87_onlineimage" width="411"><!-- NOTE: attribute width changes image size online (pixels). original width is 411. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_005.eps" id="uid87_printimage"/></media><caption>The arrangement of electrons in a lithium atom.</caption></figure></item>
+          <item id="uid88"><emphasis effect="bold">Fluorine</emphasis>
+Fluorine (<m:math><m:mi mathvariant="normal">F</m:mi></m:math>) has an atomic number of 9, meaning that a neutral atom also has 9 electrons. The first 2 electrons are found in the first energy level, while the other 7 are found in the second energy level (<link target-id="uid89"/>).
+<figure id="uid89"><media id="uid89_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_006.png" id="uid89_onlineimage" width="78"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_006.eps" id="uid89_printimage"/></media><caption>The arrangement of electrons in a fluorine atom.</caption></figure></item>
+          <item id="uid90"><emphasis effect="bold">Argon</emphasis>
+Argon has an atomic number of 18, meaning that a neutral atom also has 18 electrons. The first 2 electrons are found in the first energy level, the next 8 are found in the second energy level, and the last 8 are found in the third energy level (<link target-id="uid91"/>).
+<figure id="uid91"><media id="uid91_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_007.png" id="uid91_onlineimage" width="107"><!-- NOTE: attribute width changes image size online (pixels). original width is 107. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_007.eps" id="uid91_printimage"/></media><caption>The arrangement of electrons in an argon atom.</caption></figure></item>
+        </list>
+<para id="id259478">But the situation is slightly more complicated than this. Within each energy level, the electrons move in <emphasis effect="bold">orbitals</emphasis>. An orbital defines the spaces or regions where electrons move.</para>
+<definition id="fhsst_id687"><term id="termfhsst_id687"> Atomic orbital </term> <meaning id="meaningfhsst_id687">
+        <para id="id259495">An atomic orbital is the region in which an electron may be found around a single atom.
+ </para>
+        </meaning></definition>
+        <para id="id259508">There are different orbital shapes, but we will be mainly dealing with only two. These are the 's' and 'p' orbitals (there are also 'd' and 'f' orbitals). The 's' orbitals are spherical and the 'p' orbitals are dumbbell shaped. 
+<figure id="id8245"><media id="uid8934_media" alt=""><image mime-type="image/png" src="../../media/orbitals.png" id="uid8934_onlineimage" width="250"><!-- NOTE: attribute width changes image size online (pixels). original width is 78. --></image><image mime-type="application/postscript" for="pdf" src="../../media/orbitals.eps" id="uid8934_printimage"/></media>
+<caption>The shapes of orbitals. a) shows an 's' orbital, b) shows a single 'p' orbital and c) shows the three 'p' orbitals.</caption></figure>
+</para>
+<para id="id6732">
+The first energy level contains only one 's' orbital, the second energy level contains one 's' orbital and three 'p' orbitals and the third energy level contains one 's' orbital and three 'p' orbitals (as well as 5 'd' orbitals). Within each energy level, the 's' orbital is at a lower energy than the 'p' orbitals. This arrangement is shown in <link target-id="uid92"/>.</para>
+        <figure id="uid92">
+          <media id="uid92_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_008.png" id="uid92_onlineimage" width="513"><!-- NOTE: attribute width changes image size online (pixels). original width is 513. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_008.eps" id="uid92_printimage"/>
+          </media>
+          <caption>The positions of the first ten orbitals of an atom on an energy diagram. Note that each block is able to hold two electrons.</caption>
+        </figure>
+
+        <para id="eip-752">This diagram also helps us when we are working out the electron configuration of an element. The electron configuration of an element is the arrangement of the electrons in the shells and subshells. There are a few guidelines for working out the electron configuration. These are:
+</para><list id="id259303" display="block" list-type="bulleted"><item id="uid93">Each orbital can only hold <emphasis effect="bold">two electrons</emphasis>. Electrons that occur together in an orbital are called an <emphasis effect="bold">electron pair</emphasis>.
+</item>
+          <item id="uid94">An electron will always try to enter an orbital with the lowest possible energy.
+</item>
+          <item id="uid95">An electron will occupy an orbital on its own, rather than share an orbital with another electron. An electron would also rather occupy a lower energy orbital <emphasis effect="italics">with</emphasis> another electron, before occupying a higher energy orbital. In other words, within one energy level, electrons will fill an 's' orbital before starting to fill 'p' orbitals.
+</item>
+
+          <item id="uid83">The s subshell can hold 2 electrons
+</item>
+          <item id="uid84">The p subshell can hold 6 electrons
+</item>
+</list>
+        <para id="eip-15">In the examples you will cover, you will mainly be filling the s and p subshells. Occasionally you may get an example that has the d subshell. The f subshell is more complex and is not covered at this level.
+</para>
+        
+        
+        
+        <para id="id259599">The way that electrons are arranged in an atom is called its <emphasis effect="bold">electron configuration</emphasis>.</para>
+<definition id="fhsst_id709"><term id="termfhsst_id709"> Electron configuration </term> <meaning id="meaningfhsst_id709">
+        <para id="id259615">Electron configuration is the arrangement of electrons in an atom, molecule or other physical structure. </para>
+        </meaning></definition>
+        <para id="id259628">An element's electron configuration can be represented using <emphasis effect="bold">Aufbau diagrams</emphasis> or energy level diagrams. An Aufbau diagram uses arrows to represent electrons. You can use the following steps to help you to draw an Aufbau diagram:</para>
+        <list id="id259639" display="block" list-type="enumerated">
+          <item id="uid96">Determine the number of electrons that the atom has.
+</item>
+          <item id="uid97">Fill the 's' orbital in the first energy level (the <m:math><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:math> orbital) with the first two electrons.
+</item>
+          <item id="uid98">Fill the 's' orbital in the second energy level (the <m:math><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:math> orbital) with the second two electrons.
+</item>
+          <item id="uid99">Put one electron in each of the three 'p' orbitals in the second energy level (the <m:math><m:mn>2</m:mn><m:mi mathvariant="normal">p</m:mi></m:math> orbitals) and then if there are still electrons remaining, go back and place a second electron in each of the <m:math><m:mn>2</m:mn><m:mi mathvariant="normal">p</m:mi></m:math> orbitals to complete the electron pairs.
+</item>
+          <item id="uid100">Carry on in this way through each of the successive energy levels until all the electrons have been drawn.
+</item>
+        </list>
+<note id="notfhsst_id725" type="tip">When there are two electrons in an orbital, the electrons are called an <emphasis effect="bold">electron pair</emphasis>. If the orbital only has one electron, this electron is said to be an <emphasis effect="bold">unpaired electron</emphasis>. Electron pairs are shown with arrows pointing in opposite directions. You may hear people talking of the Pauli exclusion principle. This principle says that electrons have a property known as spin and two electrons in an orbital will not spin the same way. This is why we use arrows pointing in opposite directions. An arrow pointing up denotes an electron spinning one way and an arrow pointing downwards denotes an electron spinning the other way.</note>
+        <note id="eip-770"><title>Interesting fact</title>Aufbau is the German word for 'building up'. Scientists used this term since this is exactly what we are doing when we work out electron configuration, we are building up the atoms structure.</note><para id="eip-769">Sometimes people refer to Hund's rule for electron configuration. This rule simply says that electrons would rather be in a subshell on it's own then share a subshell. This is why, when you are filling the subshells you put one electron in each subshell and only if there are extra electrons do you go back and fill the subshell, before moving onto the next energy level.</para><para id="id259728">An Aufbau diagram for the element Lithium is shown in <link target-id="uid101"/>.</para>
+        <figure id="uid101">
+          <media id="uid101_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_009.png" id="uid101_onlineimage" width="44"><!-- NOTE: attribute width changes image size online (pixels). original width is 44. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_009.eps" id="uid101_printimage"/>
+          </media>
+          <caption>The electron configuration of Lithium, shown on an Aufbau diagram</caption>
+        </figure>
+        <para id="id259749">A special type of notation is used to show an atom's electron configuration. The notation describes the energy levels, orbitals and the number of electrons in each. For example, the electron configuration of lithium is <m:math><m:msup><m:mrow><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>1</m:mn></m:msup></m:math>. The number and letter describe the energy level and orbital and the number above the orbital shows how many electrons are in that orbital.</para>
+        <para id="id259782">Aufbau diagrams for the elements fluorine and argon are shown in <link target-id="uid102"/> and <link target-id="uid103"/> respectively. Using standard notation, the electron configuration of fluorine is <m:math overflow="scroll"><m:msup><m:mrow><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">p</m:mi></m:mrow><m:mn>5</m:mn></m:msup></m:math> and the electron configuration of argon is <m:math overflow="scroll"><m:msup><m:mrow><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">p</m:mi></m:mrow><m:mn>6</m:mn></m:msup></m:math>.</para>
+        <figure id="uid102">
+          <media id="uid102_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_010.png" id="uid102_onlineimage" width="381"><!-- NOTE: attribute width changes image size online (pixels). original width is 381. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_010.eps" id="uid102_printimage"/>
+          </media>
+          <caption>An Aufbau diagram showing the electron configuration of fluorine</caption>
+        </figure>
+        <figure id="uid103">
+          <media id="uid103_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_011.png" id="uid103_onlineimage" width="324"><!-- NOTE: attribute width changes image size online (pixels). original width is 324. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_011.eps" id="uid103_printimage"/>
+          </media>
+          <caption>An Aufbau diagram showing the electron configuration of argon</caption>
+        </figure>
+      </section>
+      <exercise id="eip-138"><title>Aufbau diagrams</title><problem id="eip-483">
+  <para id="eip-491">Give the electron configuration for sodium (<m:math><m:mi>Na</m:mi></m:math>) and draw an aufbau diagram.
+  </para>
+</problem>
+
+<solution id="eip-119">
+<list id="listfhsst_id667" list-type="enumerated" number-style="arabic" class="stepwise"><item><label>Write down the number of electrons</label>Sodium has 11 electrons.</item>
+<item><label>Work out which orbitals to fill</label>We start by placing two electrons in the <m:math><m:mn>1</m:mn><m:mi>s</m:mi></m:math> orbital: <m:math><m:msup><m:mrow><m:mn>1</m:mn><m:mi>s</m:mi></m:mrow><m:mn>2</m:mn></m:msup></m:math>. Now we have 9 electrons left to place in orbitals, so we put two in the <m:math><m:mn>2</m:mn><m:mi>s</m:mi></m:math> orbital: <m:math><m:msup><m:mrow><m:mn>2</m:mn><m:mi>s</m:mi></m:mrow><m:mn>2</m:mn></m:msup></m:math>. There are now 7 electrons to place in orbitals so we place 6 of them in the <m:math><m:mn>2</m:mn><m:mi>p</m:mi></m:math> orbital: <m:math><m:msup><m:mrow><m:mn>2</m:mn><m:mi>p</m:mi></m:mrow><m:mn>6</m:mn></m:msup></m:math>. The last electron goes into the <m:math><m:mn>3</m:mn><m:mi>s</m:mi></m:math> orbital: <m:math><m:msup><m:mrow><m:mn>3</m:mn><m:mi>s</m:mi></m:mrow><m:mn>1</m:mn></m:msup></m:math>.</item>
+<item><label>Write down the electron configuration</label>The electron configuration is: <m:math><m:msup><m:mrow><m:mn>1</m:mn><m:mi>s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi>s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi>p</m:mi></m:mrow><m:mn>6</m:mn></m:msup><m:msup><m:mrow><m:mn>3</m:mn><m:mi>s</m:mi></m:mrow><m:mn>1</m:mn></m:msup></m:math></item>
+<item><label>Draw the Aufbau diagram</label>Using the electron configuration we get the following diagram:
+<figure id="uid847"><media id="uid847_media" alt=""><image mime-type="image/png" src="../../media/wexaufbau.png" id="uid847_onlineimage" width="111"><!-- NOTE: attribute width changes image size online (pixels). original width is 411. --></image><image mime-type="application/postscript" for="pdf" src="../../media/wexaufbau.eps" id="uid847_printimage"/></media></figure></item>
+</list>
+</solution>
+</exercise><section id="uid104">
+        <title>Core and valence electrons</title>
+        <para id="id259935">Electrons in the outermost energy level of an atom are called <emphasis effect="bold">valence electrons</emphasis>. The electrons that are in the energy shells closer to the nucleus are called <emphasis effect="bold">core electrons</emphasis>. Core electrons are all the electrons in an atom, excluding the valence electrons. An element that has its valence energy level full is <emphasis effect="italics">more stable</emphasis> and <emphasis effect="italics">less likely to react</emphasis> than other elements with a valence energy level that is not full.</para>
+<definition id="fhsst_id755"><term id="termfhsst_id755"> Valence electrons </term> <meaning id="meaningfhsst_id755">
+        <para id="id259971">The electrons in the outer energy level of an atom </para>
+        </meaning></definition>
+<definition id="fhsst_id758"><term id="termfhsst_id758"> Core electrons </term> <meaning id="meaningfhsst_id758">
+        <para id="id259989">All the electrons in an atom, excluding the valence electrons </para>
+        </meaning></definition>
+      </section>
+      <section id="uid105">
+        <title>The importance of understanding electron configuration</title>
+        <para id="id260011">By this stage, you may well be wondering why it is important for you to understand how electrons are arranged around the nucleus of an atom. Remember that during chemical reactions, when atoms come into contact with one another, it is the <emphasis effect="italics">electrons</emphasis> of these atoms that will interact first. More specifically, it is the <emphasis effect="bold">valence electrons</emphasis> of the atoms that will determine how they react with one another.</para>
+        <para id="id260029">To take this a step further, an atom is at its most stable (and therefore <emphasis effect="italics">unreactive</emphasis>) when all its orbitals are full. On the other hand, an atom is least stable (and therefore most <emphasis effect="italics">reactive</emphasis>) when its valence electron orbitals are not full. This will make more sense when we go on to look at chemical bonding in a later chapter. To put it simply, the valence electrons are largely responsible for an element's chemical behaviour and elements that have the same number of valence electrons often have similar chemical properties.</para>
+<para id="eip-106">One final point to note about electron configurations is stability. Which configurations are stable and which are not? Very simply, the most stable configurations are the ones that have full energy levels. These configurations occur in the noble gases. The noble gases are very stable elements that do not react easily (if at all) with any other elements. This is due to the full energy levels. All elements would like to reach the most stable electron configurations, i.e. all elements want to be noble gases. This principle of stability is sometimes referred to as the octet rule. An octet is a set of 8, and the number of electrons in a full energy level is 8. </para><section id="eip-739"><title>Experiment: Flame tests</title><para id="eip-699"><title>Aim:</title><newline/>To determine what colour a metal cation will cause a flame to be.
+</para>
+<para id="eip-6991"><title>Apparatus:</title><newline/>Watch glass, bunsen burner, methanol, bamboo sticks, metal salts (e.g. <m:math><m:mi>NaCl</m:mi></m:math>, <m:math><m:msub><m:mi>CuCl</m:mi><m:mn>2</m:mn></m:msub></m:math>, <m:math><m:msub><m:mi>CaCl</m:mi><m:mn>2</m:mn></m:msub></m:math>, <m:math><m:mi>KCl</m:mi></m:math>, etc. ) and metal powders (e.g. copper, magnesium, zinc, iron, etc.)
+</para>
+<para id="eip-6992"><title>Method:</title><newline/>For each salt or powder do the following: <list id="id7092" list-type="enumerated"><item>Dip a clean bamboo stick into the methanol</item>
+<item>Dip the stick into the salt or powder</item>
+<item>Wave the stick through the flame from the bunsen burner. DO NOT hold the stick in the flame, but rather wave it back and forth through the flame.</item>
+<item>Observe what happens</item>
+</list>
+</para>
+<para id="eip-6993"><title>Results:</title><newline/>Record your results in a table, listing the metal salt and the colour of the flame.
+</para>
+<para id="eip-6994"><title>Conclusion:</title><newline/>You should have observed different colours for each of the metal salts and powders that you tested.</para></section><para id="eip-378">The above experiment on flame tests relates to the line emission spectra of the metals. These line emission spectra are a direct result of the arrangement of the electrons in metals.</para><section id="secfhsst_id766"><title> Energy diagrams and electrons
+        </title>
+        <list id="id260063" display="block" list-type="enumerated"><item id="uid106">Draw Aufbau diagrams to show the electron configuration of each of the following elements:
+<list id="id260079" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid107">magnesium
+</item><item id="uid108">potassium
+</item><item id="uid109">sulphur
+</item><item id="uid110">neon
+</item><item id="uid111">nitrogen
+</item></list></item>
+          <item id="uid112">Use the Aufbau diagrams you drew to help you complete the following table:
+<table id="id260157" summary=""><tgroup cols="5"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">No. of energy levels</emphasis></entry><entry><emphasis effect="bold">No. of core electrons</emphasis></entry><entry><emphasis effect="bold">No. of valence electrons</emphasis></entry><entry><emphasis effect="bold">Electron configuration (standard notation)</emphasis></entry></row><row><entry><m:math><m:mi mathvariant="normal">Mg</m:mi></m:math></entry><entry/><entry/><entry/><entry/></row><row><entry><m:math><m:mi mathvariant="normal">K</m:mi></m:math></entry><entry/><entry/><entry/><entry/></row><row><entry><m:math><m:mi mathvariant="normal">S</m:mi></m:math></entry><entry/><entry/><entry/><entry/></row><row><entry><m:math><m:mi mathvariant="normal">Ne</m:mi></m:math></entry><entry/><entry/><entry/><entry/></row><row><entry><m:math><m:mi mathvariant="normal">N</m:mi></m:math></entry><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid113">Rank the elements used above in order of <emphasis effect="italics">increasing reactivity</emphasis>. Give reasons for the order you give.
+<link class="fullmarks" window="new" url="http://www.fhsst.org/ll2"> Click here for the answer</link></item>
+        </list>
+        
+</section>
+<section id="secfhsst_id783"><title>Group work : Building a model of an atom         </title><para id="id260472">Earlier in this chapter, we talked about different 'models' of the atom. In science, one of the uses of models is that they can help us to understand the structure of something that we can't see. In the case of the atom, models help us to build a picture in our heads of what the atom looks like.</para>
+        <para id="id260480">Models are often simplified. The small toy cars that you may have played with as a child are models. They give you a good idea of what a real car looks like, but they are much smaller and much simpler. A model cannot always be absolutely accurate and it is important that we realise this so that we don't build up a false idea about something.</para>
+        <para id="id260488">In groups of 4-5, you are going to build a model of an atom. Before you start, think about these questions:</para>
+        <list id="id260495" display="block" list-type="bulleted">
+          <item id="uid114">What information do I know about the structure of the atom? (e.g. what parts make it up? how big is it?)
+</item>
+          <item id="uid115">What materials can I use to represent these parts of the atom as accurately as I can?
+</item>
+          <item id="uid116">How will I put all these different parts together in my model?
+</item>
+        </list>
+        <para id="id260537">As a group, share your ideas and then plan how you will build your model. Once you have built your model, discuss the following questions:</para>
+        <list id="id260542" display="block" list-type="bulleted">
+          <item id="uid117">Does our model give a good idea of what the atom actually looks like?
+</item>
+          <item id="uid118">In what ways is our model <emphasis effect="italics">inaccurate</emphasis>? For example, we know that electrons <emphasis effect="italics">move</emphasis> around the atom's nucleus, but in your model, it might not have been possible for you to show this.
+</item>
+          <item id="uid119">Are there any ways in which our model could be improved?
+</item>
+        </list>
+        <para id="id260596">Now look at what other groups have done. Discuss the same questions for each of the models you see and record your answers. </para>
+</section>
+      </section><para id="eip-816">The following simulation allows you to build an atom<newline/><link class="phetsim" window="new" url="http://phet.colorado.edu/sims/build-an-atom/build-an-atom_en.jnlp">run demo</link>
+<figure id="uid10312">
+          <media id="uid10312_media" alt="">
+            <image mime-type="image/png" src="../../media/atom1.png" id="uid10312_onlineimage" width="324"><!-- NOTE: attribute width changes image size online (pixels). original width is 324. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/atom1.eps" id="uid10312_printimage"/>
+          </media>
+          <caption>Build an atom simulation</caption>
+        </figure>
+</para><para id="eip-583">This is another simulation that allows you to build an atom. This simulation also provides a summary of what you have learnt so far. <newline/>
+<link window="new" url="http://scratch.mit.edu/projects/beckerr/867623"> Run demo</link>
+<figure id="uid10321">
+          <media id="uid10321_media" alt="">
+            <image mime-type="image/png" src="../../media/atom2.png" id="uid10321_onlineimage" width="324"><!-- NOTE: attribute width changes image size online (pixels). original width is 324. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/atom2.eps" id="uid10321_printimage"/>
+          </media>
+          <caption>Build an atom simulation 2</caption>
+        </figure></para>
+    </section>
+    
+    
+    <section id="cid10">
+      <title>Summary</title>
+      <list id="id262657" display="block" list-type="bulleted"><item id="uid169">Much of what we know today about the atom, has been the result of the work of a number of scientists who have added to each other's work to give us a good understanding of atomic structure.
+</item>
+        <item id="uid170">Some of the important scientific contributors include <emphasis effect="bold">J.J.Thomson</emphasis> (discovery of the electron, which led to the Plum Pudding Model of the atom), <emphasis effect="bold">Ernest Rutherford</emphasis> (discovery that positive charge is concentrated in the centre of the atom) and <emphasis effect="bold">Niels Bohr</emphasis> (the arrangement of electrons around the nucleus in energy levels).
+</item>
+        <item id="uid171">Because of the very small mass of atoms, their mass is measured in <emphasis effect="bold">atomic mass units</emphasis> (u). <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>u</m:mi><m:mo>=</m:mo> <m:mn>1</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>24</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>g</m:mi></m:math>.
+</item>
+        <item id="uid172">An atom is made up of a central <emphasis effect="bold">nucleus</emphasis> (containing <emphasis effect="bold">protons</emphasis> and <emphasis effect="bold">neutrons</emphasis>), surrounded by <emphasis effect="bold">electrons</emphasis>.
+</item>
+        <item id="uid173">The <emphasis effect="bold">atomic number</emphasis> (Z) is the number of protons in an atom.
+</item>
+        <item id="uid174">The <emphasis effect="bold">atomic mass number</emphasis> (A) is the number of protons and neutrons in the nucleus of an atom.
+</item>
+        <item id="uid175">The <emphasis effect="bold">standard notation</emphasis> that is used to write an element, is <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mi>Z</m:mi><m:mi>A</m:mi></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>, where X is the element symbol, A is the atomic mass number and Z is the atomic number.
+</item>
+        <item id="uid176">The <emphasis effect="bold">isotope</emphasis> of a particular element is made up of atoms which have the same number of protons as the atoms in the original element, but a different number of neutrons. This means that not all atoms of an element will have the same atomic mass.
+</item>
+        <item id="uid177">The <emphasis effect="bold">relative atomic mass</emphasis> of an element is the average mass of one atom of all the naturally occurring isotopes of a particular chemical element, expressed in atomic mass units. The relative atomic mass is written under the elements' symbol on the Periodic Table.
+</item>
+        <item id="uid178">The energy of electrons in an atom is <emphasis effect="bold">quantised</emphasis>. Electrons occur in specific energy levels around an atom's nucleus.
+</item>
+        <item id="uid179">Within each energy level, an electron may move within a particular shape of <emphasis effect="bold">orbital</emphasis>. An orbital defines the space in which an electron is most likely to be found. There are different orbital shapes, including s, p, d and f orbitals.
+</item>
+        <item id="uid180">Energy diagrams such as <emphasis effect="bold">Aufbau diagrams</emphasis> are used to show the electron configuration of atoms.
+</item>
+        <item id="uid181">The electrons in the outermost energy level are called <emphasis effect="bold">valence electrons</emphasis>.
+</item>
+        <item id="uid182">The electrons that are not valence electrons are called <emphasis effect="bold">core electrons</emphasis>.
+</item>
+        <item id="uid183">Atoms whose outermost energy level is full, are less chemically reactive and therefore more stable, than those atoms whose outer energy level is not full.
+</item>
+       
+      </list>
+<para id="eip-867"><figure id="slidesharefigure2" class="slideshare">
+    	<media id="slidesharemedia2" alt="Powerpoint presentation on atomic theory">
+    	<flash id="slideshareflash2" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=atomictheoryrevision-100512033251-phpapp01&amp;stripped_title=atomic-theory-revision">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="secfhsst_id1140"><title>End of chapter exercises</title>
+      <list id="id263110" display="block" list-type="enumerated"><item id="uid189">Write down only the word/term for each of the following descriptions.
+<list id="id263126" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid190">The sum of the number of protons and neutrons in an atom
+</item><item id="uid191">The defined space around an atom's nucleus, where an electron is most likely to be found
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lif">Click here for the solution</link></item>
+        <item id="uid192">For each of the following, say whether the statement is True or False. If it is False, re-write the statement correctly.
+<list id="id263169" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid193"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>10</m:mn><m:mn>20</m:mn></m:msubsup><m:mi mathvariant="normal">Ne</m:mi></m:math> and <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>10</m:mn><m:mn>22</m:mn></m:msubsup><m:mi mathvariant="normal">Ne</m:mi></m:math> each have 10 protons, 12 electrons and 12 neutrons.
+</item><item id="uid194">The atomic mass of any atom of a particular element is always the same.
+</item><item id="uid195">It is safer to use helium gas rather than hydrogen gas in balloons.
+</item><item id="uid196">Group 1 elements readily form negative ions.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/liG">Click here for the solution</link></item>
+        <item id="uid197">Multiple choice questions: In each of the following, choose the <emphasis effect="bold">one</emphasis> correct answer.
+<list id="id263273" display="block" list-type="enumerated"><item id="uid198">The three basic components of an atom are:
+<list id="id263289" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid199">protons, neutrons, and ions
+</item><item id="uid200">protons, neutrons, and electrons
+</item><item id="uid201">protons, neutrinos, and ions
+</item><item id="uid202">protium, deuterium, and tritium
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/li7">Click here for the solution</link></item><item id="uid203">The charge of an atom is...
+<list id="id263355" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid204">positive
+</item><item id="uid205">neutral
+</item><item id="uid206">negative
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/liA">Click here for the solution</link></item><item id="uid207">If Rutherford had used neutrons instead of alpha particles in his scattering experiment, the neutrons would...
+<list id="id263410" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid208">not deflect because they have no charge
+</item><item id="uid209">have deflected more often
+</item><item id="uid210">have been attracted to the nucleus easily
+</item><item id="uid211">have given the same results
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lio">Click here for the solution</link></item><item id="uid212">Consider the isotope <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>234</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:math>. Which of the following statements is <emphasis effect="italics">true</emphasis>?
+<list id="id263500" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid213">The element is an isotope of <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>94</m:mn><m:mn>234</m:mn></m:msubsup><m:mi mathvariant="normal">Pu</m:mi></m:math>
+</item><item id="uid214">The element contains 234 neutrons
+</item><item id="uid215">The element has the same electron configuration as <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>238</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:math>
+</item><item id="uid216">The element has an atomic mass number of 92
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lis">Click here for the solution</link></item><item id="uid217">The electron configuration of an atom of chlorine can be represented using the following notation:
+<list id="id263598" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid218"> <m:math overflow="scroll"><m:msup><m:mrow><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>8</m:mn></m:msup><m:msup><m:mrow><m:mn>3</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>7</m:mn></m:msup></m:math></item><item id="uid219">
+<m:math overflow="scroll"><m:msup><m:mrow><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">p</m:mi></m:mrow><m:mn>6</m:mn></m:msup><m:msup><m:mrow><m:mn>3</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>3</m:mn><m:mi mathvariant="normal">p</m:mi></m:mrow><m:mn>5</m:mn></m:msup></m:math>
+</item><item id="uid220">
+<m:math overflow="scroll"><m:msup><m:mrow><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">p</m:mi></m:mrow><m:mn>6</m:mn></m:msup><m:msup><m:mrow><m:mn>3</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>3</m:mn><m:mi mathvariant="normal">p</m:mi></m:mrow><m:mn>6</m:mn></m:msup></m:math></item><item id="uid221">
+<m:math overflow="scroll"><m:msup><m:mrow><m:mn>1</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">p</m:mi></m:mrow><m:mn>5</m:mn></m:msup></m:math></item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/liH">Click here for the solution</link></item></list></item>
+<item>Give the standard notation for the following elements:
+<list id="id8223" display="block" list-type="enumerated" number-style="lower-alpha"><item>beryllium</item>
+<item>carbon-12</item>
+<item>titanium-48</item>
+<item>fluorine</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lg7">Click here for the solution</link>
+</item>
+<item>Give the electron configurations and aufbau diagrams for the following elements:<list id="id7624" display="block" list-type="enumerated" number-style="lower-alpha"><item>aluminium</item><item>phosphorus</item><item>carbon</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgG">Click here for the solution</link>
+</item>
+<item>Use standard notation to represent the following elements: <list id="id74324" display="block" list-type="enumerated" number-style="lower-alpha"><item>argon</item><item>calcium</item><item>silver-107</item><item>bromine-79</item></list><link class="fullmarks" window="new" url=" http://www.fhsst.org/l44">Click here for the solution</link>
+</item>
+<item>For each of the following elements give the number of protons, neutrons and electrons in the element: <list id="id74374" display="block" list-type="enumerated" number-style="lower-alpha"><item><m:math><m:msubsup><m:mrow/><m:mn>78</m:mn><m:mn>195</m:mn></m:msubsup><m:mi mathvariant="normal">Pt</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>18</m:mn><m:mn>40</m:mn></m:msubsup><m:mi mathvariant="normal">Ar</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>27</m:mn><m:mn>59</m:mn></m:msubsup><m:mi mathvariant="normal">Co</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>7</m:mn></m:msubsup><m:mi mathvariant="normal">Li</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>5</m:mn><m:mn>11</m:mn></m:msubsup><m:mi mathvariant="normal">B</m:mi></m:math></item>
+</list><link class="fullmarks" window="new" url=" http://www.fhsst.org/l42">Click here for the solution</link>
+</item>
+<item>For each of the following elements give the element or number represented by 'x': <list id="id7434324" display="block" list-type="enumerated" number-style="lower-alpha"><item><m:math><m:msubsup><m:mrow/><m:mn>45</m:mn><m:mn>103</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>x</m:mn><m:mn>35</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>4</m:mn><m:mn>x</m:mn></m:msubsup><m:mi mathvariant="normal">Be</m:mi></m:math></item>
+</list><link class="fullmarks" window="new" url="http://www.fhsst.org/l4T">Click here for the solution</link>
+</item>
+<item>Which of the following are isotopes of <m:math><m:msubsup><m:mrow/><m:mn>12</m:mn><m:mn>24</m:mn></m:msubsup><m:mi mathvariant="normal">Mg</m:mi></m:math>: <list id="id743234" display="block" list-type="enumerated" number-style="lower-alpha"><item><m:math><m:msubsup><m:mrow/><m:mn>25</m:mn><m:mn>12</m:mn></m:msubsup><m:mi mathvariant="normal">Mg</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>12</m:mn><m:mn>26</m:mn></m:msubsup><m:mi mathvariant="normal">Mg</m:mi></m:math></item>
+<item><m:math><m:msubsup><m:mrow/><m:mn>13</m:mn><m:mn>24</m:mn></m:msubsup><m:mi mathvariant="normal">Al</m:mi></m:math></item>
+</list><link class="fullmarks" window="new" url="http://www.fhsst.org/l4b">Click here for the solution</link>
+</item>
+<item>If a sample contains 69% of copper-63 and 31% of copper-65, calculate the relative atomic mass of an atom in that sample.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l4j">Click here for the solution</link></item>
+<item>Complete the following table:
+<table id="eip-282" summary="text">
+<tgroup cols="4"><tbody>
+  <row>
+    <entry>Element</entry>
+    <entry>Electron configuration</entry>
+    <entry>Core electrons</entry>
+ <entry>Valence electrons</entry>
+  </row>
+  <row>
+    <entry>Boron (B)</entry>
+    <entry/>
+    <entry/>
+<entry/>
+  </row>
+  <row>
+    <entry>Calcium (Ca)</entry>
+<entry/>
+<entry/>
+<entry/>
+  </row>
+  <row>
+    <entry>Silicon (Si)</entry>
+<entry/>
+<entry/>
+<entry/>
+  </row>
+  <row>
+    <entry>Lithium (Li)</entry>
+<entry/>
+<entry/>
+<entry/>
+  </row>
+  <row>
+    <entry>Neon (Ne)</entry>
+<entry/>
+<entry/>
+<entry/>
+  </row>
+</tbody>
+</tgroup>
+</table>
+<link class="fullmarks" window="new" url="http://www.fhsst.org/l4D">Click here for the solution</link>
+</item>
+<item>Draw aufbau diagrams for the following elements:<list id="id78624" display="block" list-type="enumerated" number-style="lower-alpha"><item>beryllium</item><item>sulphur</item><item>argon</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgW">Click here for the solution</link>
+</item></list>
+      
+</section>
+    </section>
+  </content>
+</document>
